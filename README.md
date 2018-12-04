@@ -1,6 +1,10 @@
-# design
-ideas or codes 4 design
+# Ux-with-Man
+Wechat Official Account Ux-with-Man synchronous content.
 
-- 考虑突破设计门类范畴的通用的形式和形式感
-- fore-design，面向自主设计-提前设计的商业可能性探索
-- for human， for life， for innovation
+《交互与人》是一个个人的交互设计研究项目，旨在研究交互设计、界面设计、用户研究、互联网商业观察等内容。
+
+该公众号的前身是《设计评论与实验》，主要研究视觉传达、平面设计等内容。
+
+更改主题后，希望将平面设计中的信息传达、可读性、视觉吸引力的研究内容和理念导入到交互与界面设计领域中。
+
+
